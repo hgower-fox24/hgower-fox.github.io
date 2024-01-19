@@ -12,8 +12,7 @@ _____
 
 
 # Makin a website
-# dunno that I'll use it
-# curious as to how it works
+#
 #
 #
 #
